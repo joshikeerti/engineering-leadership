@@ -5,7 +5,7 @@ A collection of resources related to engineering leadership and technology
 ----
 *  [ Books ](#books)
 *  [ Topics ](#topics)
-  * [ One on Ones ](#oneonone)
+   *  [ One on Ones ](#oneonone)
 
 
 
