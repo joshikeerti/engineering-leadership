@@ -39,9 +39,9 @@ A collection of resources related to engineering leadership and technology
 ## Newsletters
 
 * [ Software Lead Weekly ](https://softwareleadweekly.com/) by Oren Ellenbogen 
-* [ Manager TLDR ] (https://fellow.app/newsletter/) by Fellow App
-* [ Level up](https://levelup.patkua.com/) by Patrick Kua
-* [ The Pragmatic Engineer ] (https://blog.pragmaticengineer.com/newsletter/) by Gergely Orosz
+* [ Manager TLDR ](https://fellow.app/newsletter/) by Fellow App
+* [ Level up ](https://levelup.patkua.com/) by Patrick Kua
+* [ The Pragmatic Engineer](https://blog.pragmaticengineer.com/newsletter/) by Gergely Orosz
 
 
 <a name="Topics"></a>
