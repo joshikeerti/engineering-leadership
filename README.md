@@ -28,6 +28,22 @@ A collection of resources related to engineering leadership and technology
 6. [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle) by Will Larson
 7. [ Managing Humans ](https://www.goodreads.com/book/show/1317946.Managing_Humans) by Michael Lopp
 
+<a name="podcasts"></a>
+## Podcasts 
+
+* [ The Engineering Leadership Podcast](https://sfelc.com/podcasts)
+* [Supermanagers](https://fellow.app/supermanagers/)
+
+
+<a name="newsletters"></a>
+## Newsletters
+
+* [ Software Lead Weekly ](https://softwareleadweekly.com/) by Oren Ellenbogen 
+* [ Manager TLDR ] (https://fellow.app/newsletter/) by Fellow App
+* [ Level up](https://levelup.patkua.com/) by Patrick Kua
+* [ The Pragmatic Engineer ] (https://blog.pragmaticengineer.com/newsletter/) by Gergely Orosz
+
+
 <a name="Topics"></a>
 # Topics
 <a name="oneonone"></a>
