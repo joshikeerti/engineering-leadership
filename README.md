@@ -11,6 +11,7 @@ A collection of resources related to engineering leadership and technology
    *  [ Performance Reviews ](#perfreviews)
    *  [ Managing Staff Engineers ](#staffeng)
    *  [ Growing Leaders](#growingleaders)
+   *  [Managing distributed teams](#distributed)
    
 
 
@@ -27,13 +28,17 @@ A collection of resources related to engineering leadership and technology
 5. [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
 6. [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle) by Will Larson
 7. [ Managing Humans ](https://www.goodreads.com/book/show/1317946.Managing_Humans) by Michael Lopp
+8. [ Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead) by Brene Brown
+9. [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren 
 
 <a name="podcasts"></a>
 ## Podcasts 
 
 * [ The Engineering Leadership Podcast](https://sfelc.com/podcasts)
 * [Supermanagers](https://fellow.app/supermanagers/)
-
+* [Dev Interrupted](https://devinterrupted.com/podcasts/)
+* [Level Up](https://codingsans.com/engineering-management-podcast)
+* [HBR Ideacast](https://hbr.org/2018/01/podcast-ideacast)
 
 <a name="newsletters"></a>
 ## Newsletters
@@ -42,7 +47,7 @@ A collection of resources related to engineering leadership and technology
 * [ Manager TLDR ](https://fellow.app/newsletter/) by Fellow App
 * [ Level up ](https://levelup.patkua.com/) by Patrick Kua
 * [ The Pragmatic Engineer](https://blog.pragmaticengineer.com/newsletter/) by Gergely Orosz
-
+* [CTO Insights](https://insights.toshotrajanov.com/)
 
 <a name="Topics"></a>
 # Topics
@@ -71,7 +76,7 @@ A collection of resources related to engineering leadership and technology
 ## Performance Reviews 
 
 * [ Performance review tips for employees & managers](https://fellow.app/blog/management/end-of-year-review-tips-for-employees-and-managers)
-* 
+
 
 <a name="staffeng"></a>
 ## Managing Staff Engineers 
