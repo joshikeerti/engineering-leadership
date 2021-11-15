@@ -2,7 +2,7 @@
 A collection of resources related to engineering leadership and technology
 
 # Table of Contents
-----
+
 *  [ Books ](#books)
 *  [ Podcasts ](#podcasts)
 *  [ Newsletters](#newsletters)
@@ -20,7 +20,7 @@ A collection of resources related to engineering leadership and technology
 
 <a name="books"></a>
 ## Books 
----
+
 1. [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager) by Julie Zhou
 2. [Resilient Management](https://www.goodreads.com/book/show/45767533-resilient-management) by Lara Hogan
 3. [Turn the Ship Around!](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) by David Marquet
@@ -53,7 +53,7 @@ A collection of resources related to engineering leadership and technology
 # Topics
 <a name="oneonone"></a>
 ## One on Ones 
----
+
 * [ How to be someone people love to talk to ](https://www.bakadesuyo.com/2015/02/love-to-talk/)
 * [ Distilled Guide to One on Ones ](https://chris-g-chiu.medium.com/engineering-management-distilled-a-guide-to-one-on-ones-5b6cceb095b7)
 * [ Get your silent 1-1s back on track ](https://codecapsule.com/2021/09/09/how-to-get-your-silent-1-on-1s-back-on-track/)
