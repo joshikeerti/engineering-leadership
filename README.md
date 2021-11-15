@@ -4,8 +4,14 @@ A collection of resources related to engineering leadership and technology
 # Table of Contents
 ----
 *  [ Books ](#books)
+*  [ Podcasts ](#podcasts)
+*  [ Newsletters](#newsletters)
 *  [ Topics ](#topics)
    *  [ One on Ones ](#oneonone)
+   *  [ Performance Reviews ](#perfreviews)
+   *  [ Managing Staff Engineers ](#staffeng)
+   *  [ Growing Leaders](#growingleaders)
+   
 
 
 
@@ -18,6 +24,9 @@ A collection of resources related to engineering leadership and technology
 2. [Resilient Management](https://www.goodreads.com/book/show/45767533-resilient-management) by Lara Hogan
 3. [Turn the Ship Around!](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) by David Marquet
 4. [Radical Candor](https://www.goodreads.com/book/show/29939161-radical-candor) by Kim Scott
+5. [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
+6. [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle) by Will Larson
+7. [ Managing Humans ](https://www.goodreads.com/book/show/1317946.Managing_Humans) by Michael Lopp
 
 <a name="Topics"></a>
 # Topics
@@ -41,3 +50,13 @@ A collection of resources related to engineering leadership and technology
 * [Approach to 1-on-1s](https://marcorogers.com/blog/my-approach-to-1-on-1s)
 
 * [Why your one-on-ones-should probably be longer](https://medium.com/vpe-coach/why-your-one-on-ones-should-probably-be-longer-cbf8961645fc)
+
+<a name="perfreviews"></a>
+## Performance Reviews 
+
+* [ Performance review tips for employees & managers](https://fellow.app/blog/management/end-of-year-review-tips-for-employees-and-managers)
+* 
+
+<a name="staffeng"></a>
+## Managing Staff Engineers 
+* [ Staff Engineer: Leadership beyond the management track](https://staffeng.com/book)
