@@ -7,16 +7,13 @@ A collection of resources related to engineering leadership and technology
 *  [ Podcasts ](#podcasts)
 *  [ Newsletters](#newsletters)
 *  [ Topics ](#topics)
+   *  [ Moving to management ](#startmgmt)
    *  [ One on Ones ](#oneonone)
    *  [ Performance Reviews ](#perfreviews)
    *  [ Managing Staff Engineers ](#staffeng)
    *  [ Growing Leaders](#growingleaders)
    *  [Managing distributed teams](#distributed)
-   
-
-
-
-
+  
 
 <a name="books"></a>
 ## Books 
@@ -30,6 +27,7 @@ A collection of resources related to engineering leadership and technology
 7. [ Managing Humans ](https://www.goodreads.com/book/show/1317946.Managing_Humans) by Michael Lopp
 8. [ Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead) by Brene Brown
 9. [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren 
+10. [ HBR guide to managing up and across ](https://www.goodreads.com/book/show/13586942-hbr-guide-to-managing-up-and-across?from_search=true&from_srp=true&qid=1nqaP6pwdw&rank=1)
 
 <a name="podcasts"></a>
 ## Podcasts 
@@ -51,6 +49,13 @@ A collection of resources related to engineering leadership and technology
 
 <a name="Topics"></a>
 # Topics
+<a name="startmgmt"></a>
+## Moving to management 
+* [How to ensure a new manager succeeds](https://getlighthouse.com/blog/new-manager-how-to-help-succeed/)
+* [How to fail as a new manager](https://medium.com/@hashbrown/how-to-fail-as-a-new-engineering-manager-30b5fb617a)
+* [Trained Engineers - Overnight Managers (or, The Art Of Not Destroying Your Company)](https://sysadvent.blogspot.com/2016/12/day-16-trained-engineers-overnight.html)
+
+
 <a name="oneonone"></a>
 ## One on Ones 
 
